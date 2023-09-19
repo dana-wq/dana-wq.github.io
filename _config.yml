@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Dana's Website
+description: A simple, beautiful, and powerful CV
+url: https://dana-wq.github.io
+avatar: /logo.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: dana
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Dana Abdullah
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/dana
+    - https://github.com/dana-wq
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Dana Abdullah
+  url: https://github.com/dana-wq/
+  email: abdullahdana636@gmail.com

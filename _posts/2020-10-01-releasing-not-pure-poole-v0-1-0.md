@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: About me!!
+author: Dana Abdullah
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- dana
+
+date: 2023-09-19 13:56 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
-
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+I am a lebanese student studying  **Masters in Data Science ** in FRANCE!
+I graduated with a bachelor's in Mathematics in the Lebanese University.
